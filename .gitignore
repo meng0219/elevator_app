@@ -1,0 +1,6 @@
+elevator.o
+elevator_app
+main.o
+monitor.o
+monitor_app
+.vscode
